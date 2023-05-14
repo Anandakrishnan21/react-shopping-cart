@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Flower",
+        "price": 50.00,
+        "imgUrl": "/imgs/flower.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Drawing Tablet",
+        "price": 5000,
+        "imgUrl": "/imgs/tablet.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Car",
+        "price": 50000,
+        "imgUrl": "/imgs/car.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bicycle",
+        "price": 8000,
+        "imgUrl": "/imgs/bicycle.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Orange",
+        "price": 200,
+        "imgUrl": "/imgs/Orange.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Watch",
+        "price": 2000,
+        "imgUrl": "/imgs/Watch.jpg"
+    }
+]
